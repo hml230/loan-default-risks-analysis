@@ -118,7 +118,7 @@ Below is the summary of the Tensorflow models' performance on the **test set**.
 |Model | Accuracy| AUC | Precision | Recall | Loss | False Negative Count |
 |---------------|--------|--------|--------|--------|--------|--------|
 | Multilayer Perceptron | 0.9981 | 0.9992 | 0.9763 | 0.9884 | 0.0313 | 107.0 |
-| Ensemble MLP |0.9958| 0.9984 | 0.9378 | 0.9868 | 0.0506 | 122.0 |
+| Bagging Approach MLP |0.9958| 0.9984 | 0.9378 | 0.9868 | 0.0506 | 122.0 |
 | 1D Convolutional Network | 0.9651 | 0.9651 | 0.7551 | 0.5254 | 0.1647 | 4394.0|
 
 For PyTorch:
